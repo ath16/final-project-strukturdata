@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.env/
+
+# macOS system file
+.DS_Store
+
+# Python bytecode
+__pycache__/
+
+# Cache
+.cache/
+
+sim-mahasiswa-if-firebase-adminsdk.json
